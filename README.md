@@ -3,9 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammadabdullah-dev1&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="muhammadabdullah-dev1" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=muhammadabdullah-dev1&theme=onedark&row=1" alt="trophy" />
-  </a>
 </p>
 
 ---
