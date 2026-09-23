@@ -5,6 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=muhammadabdullah-dev1&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="muhammadabdullah-dev1" />
 </p>
 
+<p align="center">
+  <img src="assets/banner.jpg" alt="Tech stack banner" width="100%" />
+</p>
+
 ---
 
 ### 🧑‍💻 About Me
@@ -59,5 +63,3 @@ I'm especially interested in turning ideas into useful web applications and even
 <p align="left">
   <a href="mailto:muhammadabdullah53897@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 </p>
-
-<p align="center"><i>⭐️ From <a href="https://github.com/muhammadabdullah-dev1">muhammadabdullah-dev1</a> — thanks for stopping by!</i></p>
